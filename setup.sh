@@ -30,7 +30,8 @@ chmod +x login.sh delete.sh setup.sh sound_effect.py banner.sh
 mkdir Song 
 mv Access-Granted.mp3 Jarvis2.mp3 JARVIS.mp3 sound_effect.py Song
 rm 1
-mv network.py /sdcard
+mkdir NETWORK
+mv network.py /NETWORK
 
 cd $HOME 
 cd Termux-Login 
