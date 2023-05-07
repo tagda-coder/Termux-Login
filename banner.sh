@@ -358,10 +358,10 @@ echo -e "\033[32m\033[1m
   \033[33m________________________________________________
 
      \033[1m\033[36mTool Name       \033[32m: \033[33mTermux-Login
-     \033[1m\033[36mAuthor_Name     \033[32m: \033[33mMandeep Malakar 
+     \033[1m\033[36mAuthor_Name     \033[32m: \033[33mYash Pawar 
      \033[1m\033[36mYouTube_Channel \033[32m: \033[33mTagda Coder 
      \033[1m\033[36mCountry         \033[32m: \033[33mIndia
-     \033[1m\033[36mState           \033[32m: \033[33mJharkhand   
+     \033[1m\033[36mState           \033[32m: \033[33mMaharashtra   
   \033[31m________________________________________________
 "
 
